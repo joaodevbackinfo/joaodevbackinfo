@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorpiagem)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodevbackinfo)
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-disponível-00C853?style=for-the-badge)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=joaodevbackinfo&color=00D9FF&style=for-the-badge&label=VISITAS)
 
 </div>
