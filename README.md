@@ -38,7 +38,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### ── Banco de Dados & Cloud ──
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,14 +47,13 @@
 ### ── DevOps & Ferramentas ──
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### ── Hardware & IoT ──
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -88,10 +86,13 @@
 
 <div align="center">
 
-[![agenda-contatos-php](https://github-readme-stats.vercel.app/api/pin/?username=joaodevbackinfo&repo=agenda-contatos-php&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/joaodevbackinfo/agenda-contatos-php)
-[![CRUD_laravel](https://github-readme-stats.vercel.app/api/pin/?username=joaodevbackinfo&repo=CRUD_laravel&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/joaodevbackinfo/CRUD_laravel)
-[![docker-flask-app](https://github-readme-stats.vercel.app/api/pin/?username=joaodevbackinfo&repo=docker-flask-app&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/joaodevbackinfo/docker-flask-app)
-[![agenda](https://github-readme-stats.vercel.app/api/pin/?username=joaodevbackinfo&repo=agenda&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/joaodevbackinfo/agenda)
+| 🔹 Projeto | 📋 Descrição | 🛠️ Stack | 🔗 |
+|:---|:---|:---|:---:|
+| **agenda-contatos-php** | Sistema completo de agenda com CRUD | PHP · MySQL | [![ver](https://img.shields.io/badge/ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda-contatos-php) |
+| **CRUD_laravel** | Aplicação CRUD robusta com Laravel | PHP · Laravel · Blade | [![ver](https://img.shields.io/badge/ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/CRUD_laravel) |
+| **docker-flask-app** | App Flask containerizada com Docker | Python · Flask · Docker | [![ver](https://img.shields.io/badge/ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/docker-flask-app) |
+| **agenda** | Sistema de Agenda — projeto acadêmico IFTO | PHP · Blade | [![ver](https://img.shields.io/badge/ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda) |
+| **lista-de-exercicios-PHP** | Lista de exercícios práticos em PHP | PHP | [![ver](https://img.shields.io/badge/ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/lista-de-exercicios-PHP) |
 
 </div>
 
