@@ -40,4 +40,4 @@ agenda	Sistema de Agenda — projeto acadêmico IFTO	PHP + Blade
 ---
 <div align="center">
   <sub>feito com foco e café ☕ · sempre aprendendo</sub>
-</div><img width="920" height="796" alt="image" src="https://github.com/user-attachments/assets/0cc0776e-443a-41a7-9b7a-131e7e40a736" />
+</div>
