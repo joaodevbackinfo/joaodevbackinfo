@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vítor%20Piagem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorpiagem)
 [![GitHub](https://img.shields.io/badge/GitHub-joaodevbackinfo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodevbackinfo)
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Disponível-00C853?style=for-the-badge)](#)
 ![Visitors](https://komarev.com/ghpvc/?username=joaodevbackinfo&color=00D9FF&style=for-the-badge&label=VISITAS)
 
 </div>
@@ -34,11 +33,11 @@ const dev: Developer = {
   frontend:   ["JavaScript", "TypeScript", "React Native", "Tailwind CSS", "HTML5", "CSS3"],
   databases:  ["MySQL", "PostgreSQL", "MongoDB", "SQLite", "Firebase", "Supabase"],
   devops:     ["Docker", "AWS", "Nginx", "Git", "GitHub Actions", "Linux"],
-  apis:       ["REST", "GraphQL", "Jinja2"],
+  apis:       ["REST", "GraphQL"],
+  templates:  ["Blade", "Jinja2"],
   testing:    ["Jest"],
-  templates:  ["Blade", "Jinja"],
   hardware:   ["Arduino", "IoT"],
-  tools:      ["VS Code", "Postman", "Figma"],
+  tools:      ["VS Code", "Postman"],
 
   currently:  "Aprofundando em arquitetura de software, cloud e APIs escaláveis",
   goal:       "Construir sistemas robustos, seguros e de alto desempenho",
@@ -53,7 +52,6 @@ const dev: Developer = {
 <div align="center">
 
 ### ⚙️ Back-End
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +61,6 @@ const dev: Developer = {
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🎨 Front-End & Mobile
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -74,7 +71,6 @@ const dev: Developer = {
 ![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ### 🗄️ Banco de Dados & BaaS
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -83,12 +79,10 @@ const dev: Developer = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🌐 APIs & Protocolos
-
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### ☁️ DevOps & Cloud
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -97,17 +91,14 @@ const dev: Developer = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧪 Testes & Qualidade
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 🔧 Ferramentas & IDE
-
+### 🔧 Ferramentas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔌 Hardware & IoT
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
@@ -126,12 +117,6 @@ const dev: Developer = {
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaodevbackinfo&theme=tokyonight&hide_border=true&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&background=0d1117&stroke=00D9FF&dates=8b949e)
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaodevbackinfo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=7B2FFF&point=ffffff&area=true)
 
 </div>
@@ -144,11 +129,11 @@ const dev: Developer = {
 
 | 🔹 Projeto | 📋 Descrição | 🛠️ Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **agenda-contatos-php** | Sistema completo de agenda com CRUD | `PHP` `MySQL` | [![ver](https://img.shields.io/badge/→_ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda-contatos-php) |
-| **CRUD_laravel** | Aplicação CRUD robusta com Laravel | `PHP` `Laravel` `Blade` | [![ver](https://img.shields.io/badge/→_ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/CRUD_laravel) |
-| **docker-flask-app** | App Flask containerizada com Docker | `Python` `Flask` `Docker` | [![ver](https://img.shields.io/badge/→_ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/docker-flask-app) |
-| **agenda** | Sistema de Agenda — projeto IFTO | `PHP` `Blade` | [![ver](https://img.shields.io/badge/→_ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda) |
-| **lista-de-exercicios-PHP** | Exercícios práticos em PHP | `PHP` | [![ver](https://img.shields.io/badge/→_ver-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/lista-de-exercicios-PHP) |
+| **agenda-contatos-php** | Sistema completo de agenda com CRUD | `PHP` `MySQL` | [![ver](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda-contatos-php) |
+| **CRUD_laravel** | Aplicação CRUD robusta com Laravel | `PHP` `Laravel` `Blade` | [![ver](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/CRUD_laravel) |
+| **docker-flask-app** | App Flask containerizada com Docker | `Python` `Flask` `Docker` | [![ver](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/docker-flask-app) |
+| **agenda** | Sistema de Agenda — projeto IFTO | `PHP` `Blade` | [![ver](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/agenda) |
+| **lista-de-exercicios-PHP** | Exercícios práticos em PHP | `PHP` | [![ver](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/joaodevbackinfo/lista-de-exercicios-PHP) |
 
 </div>
 
