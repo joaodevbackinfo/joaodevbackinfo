@@ -21,6 +21,9 @@
 ---
 
 ## 👨‍💻 Sobre mim
+Profissional de Tecnologia da Informação com 4 anos de experiência em projetos de desenvolvimento de software e administração de sistemas. Apaixonado por tecnologia e comprometido com o constante aprimoramento de conhecimentos e habilidades, buscando sempre estar atualizado com as mais recentes tendências e inovações no campo da TI.
+
+Acadêmico de Sistemas de Informação, atualmente inserido em estudos voltados para: (Desenvolvimento Back-End, Engenharia de Software, Empirical Studies in Software Engineering, Modelagem Computacional, QA, AI Engineering, LoRa, IoT, APIs REST, Cloud Computing, Segurança de Aplicações e Métodos Ágeis.) Sempre em constante evolução e buscando aprimorar tais conhecimentos constantemente.
 
 ```typescript
 const dev: Developer = {
